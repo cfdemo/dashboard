@@ -1,0 +1,28 @@
+.tradeHistoryWrapper {
+    display: block;
+    width: 100%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.dailyTotalsWrapper {
+    display: block;
+    width: 100%;
+    float: left;
+}
+
+.headerCell .tradeRow {
+    clear: both;
+}
+
+.headerCell {
+    background-color: #DDDDDD;
+    float: left;
+    font-weight: bold;
+    width: 15%;
+}
+
+.rowCell {
+    float: left;
+    width: 15%;
+}
